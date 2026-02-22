@@ -1,5 +1,5 @@
 # API Keys
-OPENWEATHER_API_KEY = "71ac77b80ac979d920a87c316fa57da8"  # Get free key from openweathermap.org
+OPENWEATHER_API_KEY = "API_KEY"  # Get free key from openweathermap.org
 DEFAULT_CITY = "Bangalore"
 
 # Intent threshold
