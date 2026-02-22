@@ -1,0 +1,6 @@
+numpy
+pyaudio
+silero-vad
+openai-whisper
+pyttsx3
+requests
